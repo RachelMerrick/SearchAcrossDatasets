@@ -24,7 +24,7 @@ aiofiles==0.4.0
 altair==4.1.0
 attrs==19.1.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.4
 click==7.1.1
 click-default-group==1.2.2
 cycler==0.10.0
